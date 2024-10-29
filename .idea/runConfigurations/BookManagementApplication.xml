@@ -1,5 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="BookManagementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-17.0.2" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
     <module name="structural_design_patterns" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.structural.BookManagementApplication" />
     <method v="2">
